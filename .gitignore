@@ -1,0 +1,14 @@
+*.suo
+
+*.mdf
+
+*.o
+mcpp
+
+*.dep
+
+*.dep~
+
+Makefile~
+
+MCPP
